@@ -9,3 +9,6 @@ The n-body problem in physics is the problem of predicting the individual motion
 
 The n-body problem considers n point masses *m<sub>i</sub>, i = 1, 2, . . . , n* in an inertial reference frame in three dimensional space R3 moving under the influence of mutual gravitational attraction. The general formula for this problem is
 
+<center><img  width="320" height="80" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Screenshot%202022-05-02%20104732.jpg?raw=true"></center>
+
+where _G_ is the gravitational constant and *||q<sub>j</sub> − q<sub>i</sub>||* is the magnitude of the distance between *q<sub>i</sub>* and *q<sub>j</sub>* .
