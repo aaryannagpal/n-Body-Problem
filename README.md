@@ -17,7 +17,7 @@ where _G_ is the gravitational constant and *||q<sub>j</sub> − q<sub>i</sub>||
 ## Leapfrog Integration Method
 In numerical analysis, leapfrog integration is a method for numerically integrating differential equations of the form
 
-<p align="center"><img  width="200" height="80" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Images/Double%20Derivative.jpg?raw=true"></p>
+<p align="center"><img  width="240" height="80" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Images/Double%20Derivative.jpg?raw=true"></p>
 
 We use this method in Jupyter Notebook to present the n-body problem as it does not take much space in memory during the simulation.
 We use the following formula:
