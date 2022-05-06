@@ -13,3 +13,17 @@ The n-body problem considers n point masses *m<sub>i</sub>, i = 1, 2, . . . , n*
 <p align="center"><img  width="320" height="80" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Images/Newtons%20Law%20of%20Attraction.jpg?raw=true"></p>
 
 where _G_ is the gravitational constant and *||q<sub>j</sub> − q<sub>i</sub>||* is the magnitude of the distance between *q<sub>i</sub>* and *q<sub>j</sub>* .
+
+## Leapfrog Integration Method
+In numerical analysis, leapfrog integration is a method for numerically integrating differential equations of the form
+
+<p align="center"><img  width="200" height="80" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Images/Double%20Derivative.jpg?raw=true"></p>
+
+We use this method in Jupyter Notebook to present the n-body problem as it does not take much space in memory during the simulation.
+We use the following formula:
+<p align="center"><img  width="190" height="45" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Images/Leapfrog.jpg?raw=true"></p>
+
+# N-body Simulation
+In my project, I used the n-body problem to show the orbital movements of the planets, using the Leapfrog Integration Method. 
+
+Using various simulations, the project explains the different cases of the n-body problem, using the example of objects in our own solar system. We will use the VPython module to represent our simulation.
