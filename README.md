@@ -21,9 +21,23 @@ In numerical analysis, leapfrog integration is a method for numerically integrat
 
 We use this method in Jupyter Notebook to present the n-body problem as it does not take much space in memory during the simulation.
 We use the following formula:
-<p align="center"><img  width="190" height="45" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Images/Leapfrog.jpg?raw=true"></p>
+<p align="center"><img  width="210" height="45" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Images/Leapfrog.jpg?raw=true"></p>
 
 # N-body Simulation
 In my project, I used the n-body problem to show the orbital movements of the planets, using the Leapfrog Integration Method. 
 
 Using various simulations, the project explains the different cases of the n-body problem, using the example of objects in our own solar system. We will use the VPython module to represent our simulation.
+
+## Two Body Problem
+This is a special case of n-body problem that is the interaction between 2 bodies. It represents the case where there are no external force acting between 2 objects.
+<p align="center"><img  width="190" height="150" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Images/es%20(1).jpg?raw=true"></p>
+Here, we see the orbit of Earth and Sun, showing the interaction between them
+in reality.
+
+## Three Body Problem
+This is a special case of n-body problem that is the interaction between 3 bodies. It represents the case where there is another body acting between 3 objects.
+<p align="center"><img  width="200" height="150" src = "https://github.com/aaryannagpal/n-Body-Problem/blob/main/Images/ej.jpg?raw=true"></p>
+
+Here, we see the orbit of Earth, Jupiter and Sun, showing the interaction between them in reality.
+
+_**To implement this problem, refer to the Python Code**_
