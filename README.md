@@ -40,4 +40,4 @@ This is a special case of n-body problem that is the interaction between 3 bodie
 
 Here, we see the orbit of Earth, Jupiter and Sun, showing the interaction between them in reality.
 
-_**To implement this problem, refer to the Python Code**_
+### To implement this problem, refer to the Python Code representing our solar system
