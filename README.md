@@ -11,4 +11,8 @@ towards us.
 The faint red dot is the hypothesised Nemesis brown dwarf. It is expected to be 1.5 Light Years (or 95,000 AU) away from the Sun and is believed to be
 reason of very elongated paths of some TNOs (Trans-Neptunian Objects) and the ’sling-shotting’ interstellar objects towards the solar system.
 
+The reason why this theory has still not completely been rejected is due to a new mathematical model from UC Berkeley, suggesting that almost every star is born with a buddy – including our Sun.
+
+However, we then discovered that Jupiter was supposed to be the twin of Sun, but due to less mass, the core did not reach the necessary temperatures to start the process of nuclear fusion.
+
 ### To implement this problem, refer to the Python Code
